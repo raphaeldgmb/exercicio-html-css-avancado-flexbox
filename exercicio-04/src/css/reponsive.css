@@ -1,0 +1,6 @@
+@media(max-width:1060px){
+    .pinturas{
+        max-width: 700px;
+        margin: 30px 0;
+    }
+}
